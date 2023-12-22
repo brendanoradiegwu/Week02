@@ -28,3 +28,7 @@ img{
 p{
     padding: 10px;
 }
+
+
+h1{color: yellow;
+background-color: rgb(red, green, blue);}
