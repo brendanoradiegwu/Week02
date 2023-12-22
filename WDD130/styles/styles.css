@@ -30,5 +30,23 @@ p{
 }
 
 
-h1{color: yellow;
+h1
+{color: yellow;
 background-color: rgb(red, green, blue);}
+
+
+.wrapper {
+    font-size: 1em;
+}
+
+.px {
+    width: 200px;
+}
+
+.vw {
+    width: 10vw;
+}
+
+.em {
+    width: 10em;
+}
