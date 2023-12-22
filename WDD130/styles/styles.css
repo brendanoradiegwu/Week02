@@ -50,3 +50,16 @@ background-color: rgb(red, green, blue);}
 .em {
     width: 1em;
 }
+
+
+html {
+    font-size: 16px;
+}
+
+.ems li {
+    font-size: 1.3em;
+}
+.remss li {
+    font-size: 1.3rem;
+}
+
