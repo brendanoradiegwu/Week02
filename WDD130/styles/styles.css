@@ -83,5 +83,9 @@ p{
 }
 
 .vw{
-    
+    width: 10vw;
+}
+
+.em{
+    width: 10em;
 }
