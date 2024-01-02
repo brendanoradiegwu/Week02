@@ -87,5 +87,16 @@ p{
 }
 
 .percent{
-    width: 40;
+    width: 40%;
 }
+
+html{
+    font-size: 16px;
+}
+
+.ems li{
+    font-size: em
+}
+
+.remss li{
+    font-size: 1.3rem;}
