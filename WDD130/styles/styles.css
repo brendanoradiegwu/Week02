@@ -103,6 +103,17 @@ html{
 
 .box {
     opacity: 0.9;
-    background-color: brown;
+
 }  
   
+.one {
+    background-color: antiquewhite;
+}
+
+.two{
+    background-color: blueviolet;
+}
+
+.three{
+    background-color: greenyellow;
+}
