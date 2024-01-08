@@ -102,7 +102,7 @@ html{
     font-size: 1.3rem;}
 
 .box {
-    opacity: 0.3
+    opacity: 0.9
 
 }  
   
@@ -116,4 +116,24 @@ html{
 
 .three{
     background-color: greenyellow;
+}
+
+.one{
+    background-color: #02798b;
+}
+.two{
+    background-color: #c55da1;
+}
+.three{
+    background-color: #128a7d;
+}
+
+.one{
+    background-color: rgb(2 121 139);
+}
+.two{
+    background-color: rgb(197 93 161);
+}
+.three{
+    background-color: rgb(18 138 125);
 }
