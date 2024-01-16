@@ -156,3 +156,21 @@ html{
     background-image: linear-gradient(90deg, rgb(119 0 255 / 39%), rgb(0 212 255 / 100%));
 }
 
+.box {
+    height: 300px;
+    width: 400px;
+    background-image: url(star.png);
+    background-repeat: no-repeat;
+    background-position: right 40px;
+}
+
+.box {
+    width: 400px;
+    padding: 1em;
+    border-radius: 5em;
+    border: 5px solid rebeccapurple;
+    background-color: lightblue;
+}
+.box ::after{
+    content: This is a string. I know because it is quoted in the CSS;
+}
